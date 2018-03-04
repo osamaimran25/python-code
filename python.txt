@@ -1,0 +1,7 @@
+i have learnt python programming from scratch by python crash course
+it is wonderful experince to learn python language which has easy and understandable syntax of python that can enhance the codining
+ability of python developers
+rstrip() is used for reducing the lines
+read is use for reading the lines of entire files
+readline is used to read each chareter on new line
+readlines is used to reads the entire line
